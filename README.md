@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Elyse
+# Hi there! 👋 I'm Kurt
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;TypeScript+Enthusiast;Linux+Power+User;Always+Learning!" alt="Typing SVG" />
@@ -63,7 +63,17 @@ I'm a passionate full-stack developer who loves building modern web applications
 <div align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Terminal"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+</div>
+
+### 🐚 Terminal Experience
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=zsh&logoColor=white" alt="Zsh"/>
+  <img src="https://img.shields.io/badge/Fish-739DF6?style=for-the-badge&logo=fish&logoColor=white" alt="Fish"/>
+  <img src="https://img.shields.io/badge/Tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white" alt="Tmux"/>
 </div>
 
 ## 📊 GitHub Stats
@@ -77,7 +87,13 @@ I'm a passionate full-stack developer who loves building modern web applications
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AddToKart&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
-## 🎯 Currently Learning
+## � GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AddToKart&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies"/>
+</div>
+
+## �🎯 Currently Learning
 
 <div align="center">
   <img src="https://img.shields.io/badge/🎓_Learning-NestJS-E0234E?style=for-the-badge&logoColor=white" alt="Learning NestJS"/>
@@ -85,12 +101,63 @@ I'm a passionate full-stack developer who loves building modern web applications
 
 I'm diving deep into **NestJS** to build more scalable and maintainable backend applications. The framework's modular architecture and TypeScript-first approach really excite me!
 
+## 🎨 Cool Stuff & Fun Facts
+
+<div align="center">
+  
+### ⚡ Quick Stats
+![](https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen?style=flat-square)
+![](https://img.shields.io/badge/Lives-Linux%20Terminal-success?style=flat-square)
+![](https://img.shields.io/badge/Loves-Open%20Source-red?style=flat-square)
+
+### 🎮 When I'm Not Coding
+
+```bash
+$ whoami
+Kurt - Full Stack Developer & Linux Enthusiast
+
+$ cat hobbies.txt
+- Ricing my Hyprland setup 🎨
+- Exploring new terminal emulators
+- Contributing to open source projects
+- Optimizing development workflows
+- Learning about system architecture
+
+$ fortune
+"Code is like humor. When you have to explain it, it's bad." - Cory House
+```
+
+### 🌟 Fun Terminal Commands I Love
+
+```bash
+# My daily workflow
+$ git status && git add . && git commit -m "✨ feat: another amazing feature"
+$ docker-compose up -d && npm run dev
+$ fish -c "echo 'Time to code some magic! 🐠✨'"
+```
+
+</div>
+
 ## 🔥 My Setup
 
 - **OS**: Arch Linux with Hyprland (tiling window manager extraordinaire!)
-- **Terminal**: Customized with oh-my-zsh and powerline
+- **Shell**: Fish 🐠 (with oh-my-fish), Zsh (with oh-my-zsh), and good old Bash
+- **Terminal**: Alacritty + Tmux for ultimate productivity
 - **Editor**: VS Code with a carefully curated set of extensions
 - **Workflow**: Git + GitHub for version control, Docker for containerization
+- **Theme**: Tokyo Night everywhere (consistency is key! 🌃)
+
+## 💭 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</div>
+
+## 🎵 Spotify Playing
+
+<div align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=1a1b27&border_color=444&limit=1" alt="Spotify Playing" width="350"/>
+</div>
 
 ## 📈 Activity Graph
 
@@ -105,7 +172,24 @@ I'm diving deep into **NestJS** to build more scalable and maintainable backend 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AddToKart)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YOUR_DISCORD)
 
+</div>
+
+## 🔄 Latest Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+## 📊 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontAlignY=65&desc=Happy%20Coding!&descAlignY=51&descAlign=center"/>
 </div>
 
 ---
