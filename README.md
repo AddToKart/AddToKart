@@ -113,17 +113,7 @@ I'm diving deep into **NestJS** to build more scalable and maintainable backend 
 - **Workflow**: Git + GitHub for version control, Docker for containerization
 - **Theme**: Tokyo Night everywhere (consistency is key! 🌃)
 
-## 💭 Random Dev Quote
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
-
-## 🎵 Spotify Playing
-
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=1a1b27&border_color=444&limit=1" alt="Spotify Playing" width="350"/>
-</div>
 
 ## 📈 Activity Graph
 
