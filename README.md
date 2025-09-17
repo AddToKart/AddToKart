@@ -142,15 +142,6 @@ I'm diving deep into **NestJS** to build more scalable and maintainable backend 
 
 </div>
 
-## 🔄 Latest Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-## 📊 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 ---
 
