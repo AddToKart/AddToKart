@@ -49,6 +49,9 @@ I'm a passionate full-stack developer who loves building modern web applications
 <div align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
 </div>
 
 ### 🐧 Linux Distributions & Tools
@@ -103,7 +106,6 @@ I'm a passionate full-stack developer who loves building modern web applications
 
 I'm diving deep into **NestJS** to build more scalable and maintainable backend applications. The framework's modular architecture and TypeScript-first approach really excite me!
 
-
 ## 🔥 My Setup
 
 - **OS**: Arch Linux with Hyprland (tiling window manager extraordinaire!)
@@ -112,8 +114,6 @@ I'm diving deep into **NestJS** to build more scalable and maintainable backend 
 - **Editor**: VS Code with a carefully curated set of extensions
 - **Workflow**: Git + GitHub for version control, Docker for containerization
 - **Theme**: Tokyo Night everywhere (consistency is key! 🌃)
-
-
 
 ## 📈 Activity Graph
 
@@ -131,7 +131,6 @@ I'm diving deep into **NestJS** to build more scalable and maintainable backend 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YOUR_DISCORD)
 
 </div>
-
 
 ---
 
