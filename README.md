@@ -101,42 +101,6 @@ I'm a passionate full-stack developer who loves building modern web applications
 
 I'm diving deep into **NestJS** to build more scalable and maintainable backend applications. The framework's modular architecture and TypeScript-first approach really excite me!
 
-## 🎨 Cool Stuff & Fun Facts
-
-<div align="center">
-  
-### ⚡ Quick Stats
-![](https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen?style=flat-square)
-![](https://img.shields.io/badge/Lives-Linux%20Terminal-success?style=flat-square)
-![](https://img.shields.io/badge/Loves-Open%20Source-red?style=flat-square)
-
-### 🎮 When I'm Not Coding
-
-```bash
-$ whoami
-Kurt - Full Stack Developer & Linux Enthusiast
-
-$ cat hobbies.txt
-- Ricing my Hyprland setup 🎨
-- Exploring new terminal emulators
-- Contributing to open source projects
-- Optimizing development workflows
-- Learning about system architecture
-
-$ fortune
-"Code is like humor. When you have to explain it, it's bad." - Cory House
-```
-
-### 🌟 Fun Terminal Commands I Love
-
-```bash
-# My daily workflow
-$ git status && git add . && git commit -m "✨ feat: another amazing feature"
-$ docker-compose up -d && npm run dev
-$ fish -c "echo 'Time to code some magic! 🐠✨'"
-```
-
-</div>
 
 ## 🔥 My Setup
 
