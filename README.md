@@ -145,7 +145,3 @@ I'm diving deep into **NestJS** to build more scalable and maintainable backend 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=AddToKart&label=Profile%20views&color=36BCF7&style=for-the-badge" alt="Profile Views"/>
 </div>
-
-<div align="center">
-  <i>💡 "The best way to predict the future is to create it." - Peter Drucker</i>
-</div>
